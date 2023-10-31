@@ -1,0 +1,8 @@
+tuple1=("Sashi","Shreya")
+tuple2=(1,2,3)
+tuple3=(True,False)
+tuple4=tuple(input("Enter tuple: "))
+print("Tuple1: ",tuple1)
+print("Tuple2: ",tuple2)
+print("Tuple3: ",tuple3)
+print("Tuple4: ",tuple4)
